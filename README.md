@@ -1,1 +1,4 @@
-This is the first digitalized Bagobo to Spanish dictionary for Yomitan, and it's open to be changed in other ways or formats. 
+Overview:
+This is the first digitalized Bagobo to Spanish dictionary project for Yomitan, and it's open to be changed in other ways or formats. The contents are based from a public domain dictionary called: "DICCIONARIO BAGOBO—ESPAÑOL COMPUESTO POR EL P. MATEO GISBERT DE LA COMPAÑÍA DE JESUS" from 1892. This project includes all the data from the dictionary. It's useful for intermediate to advanced Spanish learners or natives of the language.
+
+Este es el primer proyecto de haber digitalizado un diccionario Bagobo a Español para Yomitan, y esta abierto para que cualquiera pueda modificarlo. Los contenidos están basados de un diccionario en dominio publico llamado "DICCIONARIO BAGOBO—ESPAÑOL COMPUESTO POR EL P. MATEO GISBERT DE LA COMPAÑÍA DE JESUS" de 1892. Este proyecto include toda la información del diccionario. Util para cualquier estudiante intermedio del español, así como nativos del idioma.
